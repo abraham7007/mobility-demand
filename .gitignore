@@ -1,0 +1,13 @@
+# Local virtual environment
+.venv/
+
+# Downloaded dataset (~2 GB, fetched by the notebook)
+content/
+
+# Execution logs and pre-run backup
+nbrun*.log
+*.ORIG.ipynb
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
